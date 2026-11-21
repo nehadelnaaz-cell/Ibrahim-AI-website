@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehadelnaaz-cell.github.io/Ibrahim-AI-website/sitemap.xml
